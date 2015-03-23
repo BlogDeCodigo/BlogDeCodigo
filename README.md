@@ -11,7 +11,7 @@
  - Alguém saber usar ferramenta x?
  - Alguém aqui manja da linguagem x?
  - Alguém pode tirar uma dúvida minha?
-- Sem arrodeios, seja direto. Se for fazer uma pergunta, adicione o máximo de infomações para que ser melhor analisada. Nos ajude a ajuda-lo. Por exemplo, se é um problema durante a compilação nos mande o erro retornado a você, provavelmente será útil.
+- Sem arrodeios, seja direto. Se for fazer uma pergunta, adicione o máximo de informações para ser melhor analisada. Nos ajude a ajuda-lo. Por exemplo, se é um problema durante a compilação nos mande o erro retornado a você, provavelmente será útil.
 
 ####Exibição de código
 - Caso queira nos mostrar seu código use a ferramenta certa pra isso e não o próprio facebook. Elas não existem à toa e devem ser usadas sempre que possível. Exemplos:
