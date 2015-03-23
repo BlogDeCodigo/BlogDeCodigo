@@ -23,6 +23,10 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - Sites
  - [InstaJobs](http://instajobs.com.br/)
 
+####Assistência em geral
+- Facebook
+ - [Computação Depressão Downloads](https://www.facebook.com/groups/CDDownloads/)
+
 ####Certificações (acesse por sua conta e risco)
 - [NSI Training](https://www.facebook.com/nsitraining?fref=photo)
 
