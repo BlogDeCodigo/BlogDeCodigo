@@ -37,7 +37,8 @@
 
 ####Oferta de emprego e estágio
 - Não é permitida aqui no grupo. Caso queira ter notícias de ofertas basta acessar 1 dos links referentes ao assunto disponibilizados aqui: [LINKS](LINKS.md)
-- Caso a oferta seja divulgada apenas em grupos específicos de programação como esse daremos 2 dias para que o NPC que esteja divulgando a vaga entre em um grupo com esse propósito e comece a divulgar nele. Depois de 2 dias, no grupo de Linguagem C, o post será apagado.
+- Caso a oferta seja divulgada apenas em grupos específicos de programação como esse daremos 2 dias para que a pessoa que esteja divulgando a vaga entre em um grupo com esse propósito e comece a divulgar nele.
+- Depois de 2 dias, no grupo de Linguagem C, o post será apagado.
 
 ####Enquete pra faculdade e afins
 - Se possível marcar com a tag [Enquete]. Nenhum problema quanto a isso, desde que a questão seja clara e que você tire dúvidas se necessário.
