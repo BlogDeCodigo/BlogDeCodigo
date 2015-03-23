@@ -4,7 +4,7 @@
 ###Super-Regras
 
 ####Denúncia
-- Use a ferramenta de denúncia. Ela funciona sim e está a dois cliques de distância, mas não a use a toa.
+- Use a ferramenta de denúncia. Ela funciona sim e está a dois cliques de distância, mas não a use à toa.
 
 ####Seja direto
 - Evite postar perguntas como:
@@ -23,14 +23,14 @@
 ####Pirataria
 - [Em discussão]
 
-####Grupos no whatsapp
+####Grupos no Whatsapp
 - Não diga que criou um grupo no whatsapp (seu post será apagado assim que for visto), fazendo dezenas de números aparecerem nos comentários.
 - Não saia divulgando seu número pelos 4 ventos na web!
 
 ####Português
-- Se esforçe pra ```evitar``` erros de português se quiser ser levado a sério. Nada de trocar 'mais' por 'mas' ou 'agente' por 'a gente'. Sem problemas quanto a isso, apenas evite.
-- Mensagens em CAPSLOCK a toa serão apagadas, mesma coisa vale pra posts escritos em CAPSLOCK. Nada contra usar como ênfase em alguma palavra, mas ESCREVER UMA MENSAGEM INTEIRA EM CAPSLOCK JA É SACANAGEM, VAMOS CALIBRAR AÍ NÉ AMIGO(A).
-- Palavrões à vontade, ninguém é de ferro. ```Não exagere```
+- Se esforçe para **evitar** erros de português se quiser ser levado a sério. Nada de trocar 'mais' por 'mas' ou 'agente' por 'a gente'. Sem problemas quanto a isso, apenas evite.
+- Mensagens em CAPSLOCK à toa serão apagadas, mesma coisa vale pra posts escritos em CAPSLOCK. Nada contra usar como ênfase em alguma palavra, mas ESCREVER UMA MENSAGEM INTEIRA EM CAPSLOCK JA É SACANAGEM, VAMOS CALIBRAR AÍ NÉ AMIGO(A).
+- Palavrões à vontade, ninguém é de ferro. Mas **não exagere**!
 
 ####"Alguém faz isso pra mim"
 - Não peça o código completo do seu trabalho como se fosse nosso dever fazer isso. Te ajudaremos com sua dúvida, se possível, mas querer seu trabalho de mão beijada é sacanagem.
@@ -41,9 +41,9 @@
 
 ####Enquete pra faculdade e afins
 - Se possível marcar com a tag [Enquete]. Nenhum problema quanto a isso, desde que a questão seja clara e que você tire dúvidas se necessário.
-- ```obs.: Deve ter relação com informática.```
+- **obs.: Deve ter relação com informática**.
 
-####Projetos opensource
+####Projetos Open Source
 - Você pode compartilhar seu projeto aqui, desde que não fuja do intuito do grupo. Provavelmente seu projeto é do interesse de alguém e toda contribuição será apoiada. Caso seja de seu interesse, saiba que podemos adiciona-lo à nossa lista de projetos para facilitar a pesquisa de contribuidores que apoiam a filosofia opensource. Saiba mais sobre a lista aqui: [LINKS](LINKS.md)
 
 ####O que não postar/comentar
@@ -51,10 +51,10 @@
  - Posts não relacionados à informática
  - Posts com ofensas direcionadas a algo ou alguém
  - Posts sobre problemas no computador. Sim, são permitidos, mas não aqui! Tente um grupo focado nisso. Procure aqui: [LINKS](LINKS.md)
- - Comentários com lmgfy se não for ```merecido```.
+ - Comentários com lmgfy se não for **merecido**.
 
 ####Dicas
-- Usar uma tag no seu post ajuda a identifica-lo. Não é obrigatório a menos que seu post não seja sobre programação, como computação em geral e áreas relacionadas (nesse caso, use a tag ```[OFF]```)
+- Usar uma tag no seu post ajuda a identifica-lo. Não é obrigatório a menos que seu post não seja sobre programação, como computação em geral e áreas relacionadas (nesse caso, use a tag **[OFF]**)
 - Caso esteja falando de uma linguagem o uso de tags como [Haskell] ou [C] pode ajudar.
 
 ####Java
