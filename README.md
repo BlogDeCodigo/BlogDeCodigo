@@ -45,7 +45,7 @@
 - ```obs.: Deve ter relação com informática```.
 
 ####Projetos Open Source
-- Você pode compartilhar seu projeto aqui, desde que não fuja do intuito do grupo. Provavelmente seu projeto é do interesse de alguém e toda contribuição será apoiada. Caso seja de seu interesse, saiba que podemos adiciona-lo à nossa lista de projetos para facilitar a pesquisa de contribuidores que apoiam a filosofia opensource. Saiba mais sobre a lista aqui: [LINKS](LINKS.md)
+- Você pode compartilhar seu projeto aqui, desde que não fuja do intuito do grupo. Provavelmente seu projeto é do interesse de alguém e toda contribuição será apoiada. Caso seja de seu interesse, saiba que podemos adiciona-lo à nossa lista de projetos para facilitar a pesquisa de contribuidores que apoiam a filosofia opensource. Saiba mais sobre a lista aqui: [PROJETOS](PROJETOS.md)
 
 ####O que não postar/comentar
 - Serão deletados
@@ -56,12 +56,10 @@
  - PDF de livros _non-free_; cracks.
  - Pornografia ou suco de laranja.
  - Discussões religiosas e/ou políticas.
+
 ####Dicas
 - Usar uma tag no seu post ajuda a identifica-lo. Não é obrigatório a menos que seu post não seja sobre programação, como computação em geral e áreas relacionadas (nesse caso, use a tag **[OFF]**)
 - Caso esteja falando de uma linguagem, o uso de tags como **[Haskell]** ou **[C]** pode ajudar.
 
-####Java
-- Sim, um tópico apenas para Java.
- - Caso queira discutir sobre Java, que saiba "defender" ou "atacar".
- - Nada de "Java é bom porque paga meu salário" ou "Java é bom porque é super usado por aí".
- - Nada de "Java é ruim porque é 'lento'" ou "Java é ruim porque fulano disse que é ruim", explique seus pontos de maneira concisa.
+####Detalhe importante
+Além das regras, existem outros tipos de coisas que devemos evitar no grupo, e como não foram listadas nesse documento cabe aos moderadores julgar o conteúdo que surgir.
