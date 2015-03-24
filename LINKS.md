@@ -24,7 +24,8 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - Sites
  - [InstaJobs](http://instajobs.com.br/)
 - Dúvidas sobre trabalho remoto?
- - [DyegoCosta - Trabalho remoto](https://github.com/DyegoCosta/trabalhando-remoto)
+ - [Dyego Costa - Trabalhando remoto](https://github.com/DyegoCosta/trabalhando-remoto)
+ - [Ivan Santos - Guia do trabalho remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto)
 
 ####Assistência em geral
 - Facebook
