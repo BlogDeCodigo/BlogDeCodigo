@@ -28,7 +28,7 @@
 - Não saia divulgando seu número pelos 4 ventos na web!
 
 ####Português
-- Se esforçe para evitar erros de português se quiser ser levado a sério. Nada de trocar 'mais' por 'mas' ou 'agente' por 'a gente'. Sem problemas quanto a isso, apenas evite.
+- Se esforce para evitar erros de português se quiser ser levado a sério. Nada de trocar 'mais' por 'mas' ou 'agente' por 'a gente'. Sem problemas quanto a isso, apenas evite.
 - Comentários e posts em CAPSLOCK estão sujeitos ao julgamento dos administradores se devem ser apagados ou não.
 - Palavrões à vontade (moderadamente!), ninguém é de ferro.
 
