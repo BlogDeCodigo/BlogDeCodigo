@@ -23,6 +23,8 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Vagas de TI](https://www.facebook.com/groups/vagasdeti/)
 - Sites
  - [InstaJobs](http://instajobs.com.br/)
+- Dúvidas sobre trabalho remoto?
+ - [DyegoCosta - Trabalho remoto](https://github.com/DyegoCosta/trabalhando-remoto)
 
 ####Assistência em geral
 - Facebook
