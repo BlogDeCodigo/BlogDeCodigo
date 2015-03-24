@@ -6,6 +6,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [learnxinyminutes](http://learnxinyminutes.com/)
 - [programming-motherfucker](http://programming-motherfucker.com/become.html)
 - [owl-links](http://owl-links.herokuapp.com/)
+- [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ####"Redes sociais"
 - [topcoder](http://www.topcoder.com/)
