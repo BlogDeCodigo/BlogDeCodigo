@@ -33,3 +33,4 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 ####Eventos
 - [Summer of Code (Google)](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)
 - [Coders on Beer: Dojo com Elixir](https://eventioz.com.br/e/coders-on-beer-dojo-com-elixir?utm_source=eventioz&utm_medium=emailtrans&utm_campaign=ez_notification_prereg&utm_content=textlink&source=orevem)
+- [Coding Game](http://www.codingame.com/start) -> _25 de abril (sábado) às 13h_

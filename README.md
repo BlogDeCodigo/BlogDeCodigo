@@ -56,7 +56,6 @@
  - PDF de livros _non-free_; cracks.
  - Pornografia ou suco de laranja.
  - Discussões religiosas e/ou políticas.
-
 ####Dicas
 - Usar uma tag no seu post ajuda a identifica-lo. Não é obrigatório a menos que seu post não seja sobre programação, como computação em geral e áreas relacionadas (nesse caso, use a tag **[OFF]**)
 - Caso esteja falando de uma linguagem, o uso de tags como **[Haskell]** ou **[C]** pode ajudar.
