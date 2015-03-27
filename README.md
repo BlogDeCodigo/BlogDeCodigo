@@ -8,7 +8,7 @@
 
 ####Seja direto
 - Evite postar perguntas como:
- - Alguém saber usar ferramenta `x`?
+ - Alguém sabe usar ferramenta `x`?
  - Alguém aqui manja da linguagem `x`?
  - Alguém pode tirar uma dúvida minha?
 - Sem arrodeios, seja direto. Se for fazer uma pergunta, adicione o máximo de informações para ser melhor analisada. Nos ajude a ajudá-lo. Por exemplo, se é um problema durante a compilação, nos mande o erro retornado a você - provavelmente será útil.
@@ -43,6 +43,10 @@
 ####Enquete pra faculdade e afins
 - Se possível, marcar com a tag **[Enquete]**. Nenhum problema quanto a isso, desde que a questão seja clara e que você tire dúvidas se necessário.
 - ```Obs.: Deve ter relação com informática```.
+
+####Certificações/Cursos
+- É permitido *postar* cursos relacionados à informática e empresas que oferecem certificações nessa mesma área. Entretanto, apenas 1 vez. Assim que a divulgação for feita nós a colocaremos no arquivo *LINKS* ([_acesse para saber mais_](LINKS.md)). Todo final de semana, incentivaremos os membros do grupo a conferir [esse](https://github.com/BlogDeCodigo/BlogDeCodigo) repositório à procura de cursos novos, material de estudo, eventos, emprego, etc.
+- Caso alguém esteja a procura de um determinado curso ou material de estudo, você pode divulgar novamente (contanto que seja nos comentários e não em um novo post).
 
 ####Projetos Open Source
 - Você pode compartilhar seu projeto aqui, desde que não fuja do intuito do grupo. Provavelmente seu projeto é do interesse de alguém, e toda contribuição será apoiada. Caso seja de seu interesse, saiba que podemos adicioná-lo à nossa lista de projetos para facilitar a pesquisa de contribuidores que apoiam a filosofia open-source. Saiba mais sobre a lista aqui: [PROJETOS](PROJETOS.md)
