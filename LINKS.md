@@ -29,12 +29,17 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Dyego Costa - Trabalhando remoto](https://github.com/DyegoCosta/trabalhando-remoto)
  - [Ivan Santos - Guia do trabalho remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto)
 
+####Desafios
+- [TheHuxley](http://www.thehuxley.com/)
+- [Project Euler](https://projecteuler.net/)
+
 ####Assistência em geral
 - Facebook
  - [Computação Depressão Downloads](https://www.facebook.com/groups/CDDownloads/)
 
-####Certificações (acesse por sua conta e risco)
+####Certificações/Cursos (acesse por sua conta e risco)
 - [NSI Training](https://www.facebook.com/nsitraining?fref=photo)
+- [UP Inside](https://www.upinside.com.br/)
 
 ####Eventos
 - Dá tempo!!
