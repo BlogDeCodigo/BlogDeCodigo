@@ -33,6 +33,15 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [TheHuxley](http://www.thehuxley.com/)
 - [Project Euler](https://projecteuler.net/)
 
+####IDEs
+- [Sublime Text](http://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+- [Nuclide](http://nuclide.io/)
+- [Code::Blocks](http://www.codeblocks.org/)
+- [Ninja-IDE](http://ninja-ide.org/)
+- [MonoDevelop](http://www.monodevelop.com/)
+- [JetBrains](https://www.jetbrains.com/)
+
 ####Assistência em geral
 - Facebook
  - [Computação Depressão Downloads](https://www.facebook.com/groups/CDDownloads/)
