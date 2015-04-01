@@ -19,6 +19,7 @@
  - [ideone](https://ideone.com/)
  - [gist](https://gist.github.com/)
  - [codepad](https://http://codepad.org/)
+ - [ghostbin](https://ghostbin.com/)
 
 ####Pirataria
 - Não aprovada no grupo.
