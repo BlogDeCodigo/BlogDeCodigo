@@ -8,9 +8,10 @@
 
 ####Seja direto
 - Evite postar perguntas como:
- - Alguém sabe usar ferramenta `x`?
- - Alguém aqui manja da linguagem `x`?
- - Alguém pode tirar uma dúvida minha?
+ - "Alguém sabe usar ferramenta `x`?"
+ - "Alguém aqui manja da linguagem `x`?"
+ - "Alguém pode tirar uma dúvida minha?"
+ - Resumindo: perguntas que podem ser respondidas pelo primeiro link do [google](https://com.google/)
 - Sem arrodeios, seja direto. Se for fazer uma pergunta, adicione o máximo de informações para ser melhor analisada. Nos ajude a ajudá-lo. Por exemplo, se é um problema durante a compilação, nos mande o erro retornado a você - provavelmente será útil.
 
 ####Exibição de código
