@@ -52,6 +52,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
+ - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
  - [Minicurso presencial de AngularJS](http://www.meetup.com/NetCoders/events/221572928/) -> _10 de abril de 2015 (sexta-feira), 23:00h~4:00h_
  - [Primeiro evento de FreeBSD da UFRRJ](http://bsdday.fug.com.br/) -> _16 de abril de 2015 (quinta-feira)_
  - [Congresso de software livre do NE](http://www.softwarelivrene.org/) -> _25 de abril de 2015 (sábado)_
@@ -60,5 +61,4 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
 - Passados
  - [Coders on Beer: Dojo com Elixir](https://eventioz.com.br/e/coders-on-beer-dojo-com-elixir?utm_source=eventioz&utm_medium=emailtrans&utm_campaign=ez_notification_prereg&utm_content=textlink&source=orevem) -> _24 de março de 2015 (terça-feira), 19:00h~21:00h_
- - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
  - [Design Responsivo - (Caelum)](http://www.eventick.com.br/hangout-sobre-web-design-respo?utm_source=Alura&utm_campaign=9ba17c136e-Alura_Mar_o_2015_Hangout_S_rgio_e_Luiz3_23_2015&utm_medium=email&utm_term=0_acded722d9-9ba17c136e-47317561&mc_cid=9ba17c136e&mc_eid=6f5a1fc2ef) -> _30 de março de 2015 (segunda-feira), 19:00h_ - [video](https://www.youtube.com/watch?v=PyY4hvpbB2Q) do Hangout
