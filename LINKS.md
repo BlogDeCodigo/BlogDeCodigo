@@ -47,8 +47,9 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Computação Depressão Downloads](https://www.facebook.com/groups/CDDownloads/)
 
 ####Certificações/Cursos (acesse por sua conta e risco)
-- [NSI Training](https://www.facebook.com/nsitraining?fref=photo)
+- [NSI Training](https://www.facebook.com/nsitraining)
 - [UP Inside](https://www.upinside.com.br/)
+- [Treinamentos Luciano Augusto](http://www.lucianoaugusto.com.br/)
 
 ####Eventos
 - Dá tempo!!
