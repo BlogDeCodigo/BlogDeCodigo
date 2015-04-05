@@ -32,6 +32,9 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 ####Desafios
 - [TheHuxley](http://www.thehuxley.com/)
 - [Project Euler](https://projecteuler.net/)
+- [SPOJ](http://br.spoj.com/)
+- [A2 Online Judge](http://www.ahmed-aly.com/)
+- [Code Forces](http://codeforces.com/)
 
 ####IDEs
 - [Sublime Text](http://www.sublimetext.com/)
