@@ -2,19 +2,20 @@
 Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Geral
-- [hackr](http://hackr.io/)
-- [learnxinyminutes](http://learnxinyminutes.com/)
-- [programming-motherfucker](http://programming-motherfucker.com/become.html)
+- [Hackr](http://hackr.io/)
+- [Learn X in Y Minutes](http://learnxinyminutes.com/)
+- [Programming, Motherfucker](http://programming-motherfucker.com/become.html)
 - [owl-links](http://owl-links.herokuapp.com/)
-- [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
-- [bit is myth](https://bitismyth.wordpress.com/)
+- [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [Bit is Myth](https://bitismyth.wordpress.com/)
+- [StackShare](http://stackshare.io/)
 
 ####"Redes sociais"
-- [topcoder](http://www.topcoder.com/)
-- [codewars](http://www.codewars.com/)
-- [github](https://www.github.com/)
-- [stackoverflow](http://stackoverflow.com/)
-- [codeivate](http://www.codeivate.com/)
+- [TopCoder](http://www.topcoder.com/)
+- [CodeWars](http://www.codewars.com/)
+- [GitHub](https://www.github.com/)
+- [StackOverflow](http://stackoverflow.com/)
+- [CodeIvate](http://www.codeivate.com/)
 
 ####Onde procurar emprego/estágio
 - Facebook
@@ -25,6 +26,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [WABR Consultoria](https://www.facebook.com/wabrcons)
 - Sites
  - [InstaJobs](http://instajobs.com.br/)
+ - [Go Talent](http://www.gotalent.com.br/)
 - Dúvidas sobre trabalho remoto?
  - [Dyego Costa - Trabalhando remoto](https://github.com/DyegoCosta/trabalhando-remoto)
  - [Ivan Santos - Guia do trabalho remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto)
