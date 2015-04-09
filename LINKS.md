@@ -59,6 +59,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
+ - [Alagoas Dev Day](http://alagoasdevday.com.br/) -> _18 de abril de 2015 (sábado), 08:00h_
  - [Começando com Ruby on Rails](http://www.eventick.com.br/workshopadd) -> _11 de abril de 2015 (sábado), 08:00h_
  - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
  - [Minicurso presencial de AngularJS](http://www.meetup.com/NetCoders/events/221572928/) -> _10 de abril de 2015 (sexta-feira), 23:00h~4:00h_
