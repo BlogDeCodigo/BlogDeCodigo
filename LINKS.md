@@ -27,6 +27,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - Sites
  - [InstaJobs](http://instajobs.com.br/)
  - [Go Talent](http://www.gotalent.com.br/)
+ - [Job Code_](http://jobcode.webflow.com/)
 - Dúvidas sobre trabalho remoto?
  - [Dyego Costa - Trabalhando remoto](https://github.com/DyegoCosta/trabalhando-remoto)
  - [Ivan Santos - Guia do trabalho remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto)
@@ -58,6 +59,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
+ - [Começando com Ruby on Rails](http://www.eventick.com.br/workshopadd) -> _11 de abril de 2015 (sábado), 08:00h_
  - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
  - [Minicurso presencial de AngularJS](http://www.meetup.com/NetCoders/events/221572928/) -> _10 de abril de 2015 (sexta-feira), 23:00h~4:00h_
  - [Primeiro evento de FreeBSD da UFRRJ](http://bsdday.fug.com.br/) -> _16 de abril de 2015 (quinta-feira)_
