@@ -59,6 +59,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
+ - [IX Solisc - Congresso Catarinense de Software Livre](https://eventioz.com.br/e/ix-solisc-congresso-catarinense-de-software-livre) -> _17 de abril de 2015 (sexta-feira), 19:00h - 18 de abril de 2015 (sábado), 18:00h_
  - [Alagoas Dev Day](http://alagoasdevday.com.br/) -> _18 de abril de 2015 (sábado), 08:00h_
  - [Começando com Ruby on Rails](http://www.eventick.com.br/workshopadd) -> _11 de abril de 2015 (sábado), 08:00h_
  - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
