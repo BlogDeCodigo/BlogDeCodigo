@@ -9,6 +9,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Bit is Myth](https://bitismyth.wordpress.com/)
 - [StackShare](http://stackshare.io/)
+- [Minidosis](http://www.minidosis.org/#/)
 
 ####"Redes sociais"
 - [TopCoder](http://www.topcoder.com/)
