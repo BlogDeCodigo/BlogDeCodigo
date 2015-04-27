@@ -57,11 +57,11 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [NSI Training](https://www.facebook.com/nsitraining)
 - [UP Inside](https://www.upinside.com.br/)
 - [Treinamentos Luciano Augusto](http://www.lucianoaugusto.com.br/)
+- [CURSOTIGRAUITOS](https://www.facebook.com/CURSOTIGRATUITOS?ref=hl)
 
 ####Eventos
 - Dá tempo!!
- - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
- - [Congresso de software livre do NE](http://www.softwarelivrene.org/) -> _25 de abril de 2015 (sábado)_
+ - [Semana da Computação (SECOMP) da UFRPE](http://secomp-ufrpe.com.br/) -> _19~24 de outubro de 2015 (segunda~sábado)_
  - [Summer of Code (Google)](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) -> _[timeline](https://www.google-melange.com/gsoc/events/google/gsoc2015)_
  - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
 - Passados
@@ -73,3 +73,5 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Primeiro evento de FreeBSD da UFRRJ](http://bsdday.fug.com.br/) -> _16 de abril de 2015 (quinta-feira)_
  - [Alagoas Dev Day](http://alagoasdevday.com.br/) -> _18 de abril de 2015 (sábado), 08:00h_
  - [IX Solisc - Congresso Catarinense de Software Livre](https://eventioz.com.br/e/ix-solisc-congresso-catarinense-de-software-livre) -> _17 de abril de 2015 (sexta-feira), 19:00h - 18 de abril de 2015 (sábado), 18:00h_
+ - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
+ - [Congresso de software livre do NE](http://www.softwarelivrene.org/) -> _25 de abril de 2015 (sábado)_
