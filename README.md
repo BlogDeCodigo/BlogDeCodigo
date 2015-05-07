@@ -38,7 +38,7 @@
 - Não peça o código completo do seu trabalho como se fosse nosso dever fazer isso. Te ajudaremos com sua dúvida, se possível, mas querer seu trabalho de mão beijada é sacanagem.
 
 ####Oferta de emprego e estágio
-- Não é permitida aqui no grupo. Caso queira ter notícias de ofertas basta acessar 1 dos links referentes ao assunto disponibilizados aqui: [LINKS](LINKS.md)
+- Não é permitida aqui no grupo. Caso queira ter notícias de ofertas basta acessar 1 dos links referentes ao assunto disponibilizados aqui: [LINKS](LINKS.md#onde-procurar-empregoestágio)
 - Caso a oferta seja divulgada apenas em grupos específicos de programação, como esse, daremos 2 dias para que a pessoa que esteja divulgando a vaga entre em um grupo com esse propósito e comece a divulgar nele.
 - Depois de 2 dias, no grupo de Linguagem C, o post será apagado.
 
