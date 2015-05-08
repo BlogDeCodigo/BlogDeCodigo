@@ -17,6 +17,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [GitHub](https://www.github.com/)
 - [StackOverflow](http://stackoverflow.com/)
 - [CodeIvate](http://www.codeivate.com/)
+- [Skilleo](https://skilleo.me/)
 
 ####Onde procurar emprego/estágio
 - Facebook
