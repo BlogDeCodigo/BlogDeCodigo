@@ -10,6 +10,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [Bit is Myth](https://bitismyth.wordpress.com/)
 - [StackShare](http://stackshare.io/)
 - [Minidosis](http://www.minidosis.org/#/)
+- [Basic Code](https://www.youtube.com/channel/UCCfiF3KwGpfdh12X39yfWwQ)
 
 ####"Redes sociais"
 - [TopCoder](http://www.topcoder.com/)
