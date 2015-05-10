@@ -11,6 +11,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [StackShare](http://stackshare.io/)
 - [Minidosis](http://www.minidosis.org/#/)
 - [Basic Code](https://www.youtube.com/channel/UCCfiF3KwGpfdh12X39yfWwQ)
+- [Beej](http://beej.us/guide/)
 
 ####"Redes sociais"
 - [TopCoder](http://www.topcoder.com/)
