@@ -62,8 +62,8 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
+ - [1º Open Source Day](https://www.facebook.com/events/917419614966169/) -> _16 de maio de 2015 (sábado)_
  - [Semana da Computação (SECOMP) da UFRPE](http://secomp-ufrpe.com.br/) -> _19~24 de outubro de 2015 (segunda~sábado)_
- - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
  - [IV O Congresso Brasileiro de Informática na Educação (CBIE)](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
  - [X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
  - [Hangout sobre qualidade de código](http://www.eventick.com.br/hangout-sobre-qualidade-de-cod) -> _12 de maio de 2015 (terça-feira), 18:00h _
@@ -79,3 +79,5 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Coding Game](http://www.codingame.com/start) -> _25 de abril de 2015 (sábado), 13:00h_
  - [Congresso de software livre do NE](http://www.softwarelivrene.org/) -> _25 de abril de 2015 (sábado)_
  - [Summer of Code (Google)](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) -> _[timeline](https://www.google-melange.com/gsoc/events/google/gsoc2015)_
+ - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
+ 
