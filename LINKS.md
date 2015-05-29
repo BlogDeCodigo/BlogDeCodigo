@@ -32,7 +32,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [InstaJobs](http://instajobs.com.br/)
  - [Go Talent](http://www.gotalent.com.br/)
  - [Job Code_](http://jobcode.webflow.com/)
-- Dúvidas sobre trabalho remoto?
+- Dicas sobre trabalho remoto
  - [Dyego Costa - Trabalhando remoto](https://github.com/DyegoCosta/trabalhando-remoto)
  - [Ivan Santos - Guia do trabalho remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto)
 
@@ -42,6 +42,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [SPOJ](http://br.spoj.com/)
 - [A2 Online Judge](http://www.ahmed-aly.com/)
 - [Code Forces](http://codeforces.com/)
+- [Exercism](http://exercism.io)
 
 ####IDEs
 - [Sublime Text](http://www.sublimetext.com/)
@@ -64,7 +65,6 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
- - [1º Open Source Day](https://www.facebook.com/events/917419614966169/) -> _16 de maio de 2015 (sábado)_
  - [Semana da Computação (SECOMP) da UFRPE](http://secomp-ufrpe.com.br/) -> _19~24 de outubro de 2015 (segunda~sábado)_
  - [IV O Congresso Brasileiro de Informática na Educação (CBIE)](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
  - [X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
@@ -82,3 +82,4 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Summer of Code (Google)](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) -> _[timeline](https://www.google-melange.com/gsoc/events/google/gsoc2015)_
  - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
  - [Hangout sobre qualidade de código](http://www.eventick.com.br/hangout-sobre-qualidade-de-cod) -> _12 de maio de 2015 (terça-feira), 18:00h _
+ - [1º Open Source Day](https://www.facebook.com/events/917419614966169/) -> _16 de maio de 2015 (sábado)_
