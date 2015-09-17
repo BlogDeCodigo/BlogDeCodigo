@@ -13,6 +13,9 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 - [Basic Code](https://www.youtube.com/channel/UCCfiF3KwGpfdh12X39yfWwQ)
 - [Beej](http://beej.us/guide/)
 
+####Páginas divulgadas no grupo
+- [Devinsharper](https://www.facebook.com/DevInSharper.Net)
+
 ####"Redes sociais"
 - [TopCoder](http://www.topcoder.com/)
 - [CodeWars](http://www.codewars.com/)
