@@ -68,10 +68,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
 
 ####Eventos
 - Dá tempo!!
- - [Semana da Computação (SECOMP) da UFRPE](http://secomp-ufrpe.com.br/) -> _19~24 de outubro de 2015 (segunda~sábado)_
- - [IV O Congresso Brasileiro de Informática na Educação (CBIE)](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
- - [X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
- - [Python Brasil 2015](https://eventioz.com.br/e/pythonbrasil11) -> _9 de novembro (segunda), 08:00h e 11 de novembro (quarta), 18:00h._
+
 - Passados
  - [Coders on Beer: Dojo com Elixir](https://eventioz.com.br/e/coders-on-beer-dojo-com-elixir?utm_source=eventioz&utm_medium=emailtrans&utm_campaign=ez_notification_prereg&utm_content=textlink&source=orevem) -> _24 de março de 2015 (terça-feira), 19:00h~21:00h_
  - [Design Responsivo - (Caelum)](http://www.eventick.com.br/hangout-sobre-web-design-respo?utm_source=Alura&utm_campaign=9ba17c136e-Alura_Mar_o_2015_Hangout_S_rgio_e_Luiz3_23_2015&utm_medium=email&utm_term=0_acded722d9-9ba17c136e-47317561&mc_cid=9ba17c136e&mc_eid=6f5a1fc2ef) -> _30 de março de 2015 (segunda-feira), 19:00h_ - [video](https://www.youtube.com/watch?v=PyY4hvpbB2Q) do Hangout
@@ -87,3 +84,7 @@ Obs. Serão movidos para a wiki do github do grupo se necessário.
  - [Congresso de TI](http://congressodeti.com.br/) -> _05 de maio (terça) ~ 12 de maio (terça-feira)) de 2015_
  - [Hangout sobre qualidade de código](http://www.eventick.com.br/hangout-sobre-qualidade-de-cod) -> _12 de maio de 2015 (terça-feira), 18:00h _
  - [1º Open Source Day](https://www.facebook.com/events/917419614966169/) -> _16 de maio de 2015 (sábado)_
+ - [Semana da Computação (SECOMP) da UFRPE](http://secomp-ufrpe.com.br/) -> _19~24 de outubro de 2015 (segunda~sábado)_
+ - [IV O Congresso Brasileiro de Informática na Educação (CBIE)](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
+ - [X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem](http://ic.ufal.br/evento/cbie_laclo2015/) -> _26~30 de outubro (segunda~sexta-feira) de 2015_
+ - [Python Brasil 2015](https://eventioz.com.br/e/pythonbrasil11) -> _9 de novembro (segunda), 08:00h e 11 de novembro (quarta), 18:00h._
